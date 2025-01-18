@@ -1,2 +1,3 @@
-# for update
-compose.yaml
+#compose file add in ignore
+#compose.yaml
+Dockerfile.python
