@@ -1,11 +1,23 @@
 #add to ignore
-.git
 .cache
 .env
 **/*env
 *env
 /tmp/requirements.txt
 /app
+
+
+# Common
+README.md
+CHANGELOG.md
+compose.yml
+Dockerfile.python
+
+
+# git
+.git
+.gitattributes
+.gitignore
 
 #add dop 1
 **/*.class
