@@ -1,8 +1,9 @@
 #add to ignore
 .git
 .cache
-
-
+.env
+**/*env
+*env
 
 
 #add dop 1
@@ -12,5 +13,4 @@
 !README*.md
 .README-secret.md 
 #add dop 3
-.env
 .aws
