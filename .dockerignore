@@ -1,1 +1,16 @@
-#for update
+#add to ignore
+.git
+.cache
+
+
+
+
+#add dop 1
+**/*.class
+#add dop 2
+*.md
+!README*.md
+.README-secret.md 
+#add dop 3
+.env
+.aws

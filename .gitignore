@@ -1,3 +1,4 @@
-#compose file add in ignore
-#compose.yaml
+#files add in ignore
+compose.yaml
 Dockerfile.python
+script.sh
