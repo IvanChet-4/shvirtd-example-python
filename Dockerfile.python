@@ -13,9 +13,8 @@ RUN chmod +x /script.sh
 
 COPY ./main.py /main.py
 
-COPY ./app /app
-WORKDIR /app/
+WORKDIR /
 
-ENV PYTHONPATH=/app
+ENV PYTHONPATH=/
 
 CMD ["/script.sh"]
