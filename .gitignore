@@ -1,4 +1,4 @@
 #files add in ignore
-.compose.yaml
-.Dockerfile.python
-.script.sh
+compose.yaml
+Dockerfile.python
+script.sh
